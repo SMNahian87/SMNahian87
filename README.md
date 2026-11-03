@@ -68,10 +68,10 @@ Look at my repos below — you will find projects in **NLP**, **Web Technologies
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=SMNahian270&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SMNahian270&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=SMNahian87&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SMNahian87&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%"/>
 
-<img src="https://streak-stats.demolab.com/?user=SMNahian270&theme=dark&hide_border=false" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=SMNahian87&theme=dark&hide_border=false" width="70%"/>
 
 </div>
 
@@ -80,7 +80,7 @@ Look at my repos below — you will find projects in **NLP**, **Web Technologies
 ## 🏆 Trophies:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SMNahian270&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SMNahian87&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
 <br/>
@@ -88,7 +88,7 @@ Look at my repos below — you will find projects in **NLP**, **Web Technologies
 ## 🐍 Contribution Snake:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SMNahian270/SMNahian270/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  <img src="https://raw.githubusercontent.com/SMNahian87/SMNahian87/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
 
 > Note: the snake graphic needs a one-time GitHub Actions workflow in your profile repo to generate it (see setup notes below) — everything else on this page works immediately with no setup.
